@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rudimentary School Management</string>
+    <string name="error_required_field">Please Input this field</string>
+</resources>

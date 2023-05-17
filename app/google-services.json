@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "283351208738",
+    "project_id": "school-management-f1e9b",
+    "storage_bucket": "school-management-f1e9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283351208738:android:4811384c27bd9585634b7b",
+        "android_client_info": {
+          "package_name": "com.example.appdevelopmentprojectemobilis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283351208738-ch63fim2705goq0ph8n39488sacl89ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kaNoVpBUoKF8g7XN-fpiQWpV14UOmX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283351208738-ch63fim2705goq0ph8n39488sacl89ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283351208738:android:b0194f3808554e92634b7b",
+        "android_client_info": {
+          "package_name": "com.example.appdevelopmenttrialtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283351208738-ch63fim2705goq0ph8n39488sacl89ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kaNoVpBUoKF8g7XN-fpiQWpV14UOmX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283351208738-ch63fim2705goq0ph8n39488sacl89ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

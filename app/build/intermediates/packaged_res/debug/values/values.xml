@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#F30630</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC801</color>
+    <string name="app_name">Rudimentary School Management</string>
+    <string name="default_web_client_id" translatable="false">283351208738-ch63fim2705goq0ph8n39488sacl89ad.apps.googleusercontent.com</string>
+    <string name="error_required_field">Please Input this field</string>
+    <string name="gcm_defaultSenderId" translatable="false">283351208738</string>
+    <string name="google_api_key" translatable="false">AIzaSyA_kaNoVpBUoKF8g7XN-fpiQWpV14UOmX0</string>
+    <string name="google_app_id" translatable="false">1:283351208738:android:b0194f3808554e92634b7b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_kaNoVpBUoKF8g7XN-fpiQWpV14UOmX0</string>
+    <string name="google_storage_bucket" translatable="false">school-management-f1e9b.appspot.com</string>
+    <string name="project_id" translatable="false">school-management-f1e9b</string>
+    <style name="Base.Theme.AppDevelopmentTrialTwo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AppDevelopmentTrialTwo" parent="Base.Theme.AppDevelopmentTrialTwo"/>
+</resources>

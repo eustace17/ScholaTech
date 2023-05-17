@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aesthetic">
+
+
+    <TextView
+        android:id="@+id/mTxtStudent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Student Details"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/mEdtStdName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Student's Name"
+        android:inputType="textPersonName"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mTxtStudent" />
+
+    <EditText
+        android:id="@+id/mEdtDOB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:ems="10"
+        android:hint="Date of Birth"
+        android:inputType="date"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/mEdtStdName" />
+
+    <EditText
+        android:id="@+id/mEdtDOA"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Admission Date"
+        android:inputType="date"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtDOB" />
+
+    <EditText
+        android:id="@+id/mEdtAdmNo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Admission Number"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtDOA" />
+
+    <EditText
+        android:id="@+id/mEdtGrade"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Grade"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtAdmNo" />
+
+    <EditText
+        android:id="@+id/UPI"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="UPI"
+        android:inputType="numberDecimal"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtGrade" />
+
+    <TextView
+        android:id="@+id/mTxtParents"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:text="Parent's details"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/UPI"
+        app:layout_editor_absoluteY="303dp" />
+
+    <EditText
+        android:id="@+id/mEdFrName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="Father's Name"
+        android:inputType="textPersonName"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mTxtParents" />
+
+    <EditText
+        android:id="@+id/mEdtFrCell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:ems="10"
+        android:hint="Father's Cell"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintStart_toStartOf="@+id/mEdtFrOccupation"
+        app:layout_constraintTop_toBottomOf="@+id/mEdFrName" />
+
+    <EditText
+        android:id="@+id/mEdtFrId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Id Number"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mEdtFrOccupation"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtFrCell" />
+
+    <EditText
+        android:id="@+id/mEdtFrOccupation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="29dp"
+        android:ems="10"
+        android:hint="Occupation"
+        android:inputType="text"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toStartOf="@+id/mEdtFrId"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtFrCell" />
+
+    <EditText
+        android:id="@+id/mEdtMrName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Mother's Name"
+        android:inputType="text"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtFrId" />
+
+    <EditText
+        android:id="@+id/mEdtMrCell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Mother's cell"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintStart_toStartOf="@+id/mEdtMrName"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtMrName" />
+
+    <EditText
+        android:id="@+id/mEdtMrJob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="39dp"
+        android:ems="10"
+        android:hint="Occupation"
+        android:inputType="text"
+        android:textColorHint="#ED2482"
+        app:layout_constraintEnd_toStartOf="@+id/mEdtMrId"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtMrCell" />
+
+    <EditText
+        android:id="@+id/mEdtMrId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Id Number"
+        android:inputType="number"
+        android:textColorHint="#ED2482"
+        app:layout_constraintBaseline_toBaselineOf="@+id/mEdtMrJob"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mEdtMrJob" />
+
+
+    <Button
+        android:id="@+id/mBtnUpdate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="17dp"
+        android:text="Update"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

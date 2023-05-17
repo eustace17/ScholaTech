@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable_aesthetic.jpeg.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/drawable/aesthetic.jpeg"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_tr_registration.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_tr_registration.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_call_out_student.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_call_out_student.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_student_layout.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/student_layout.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_student_update.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_student_update.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_sign_in.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable_vecteezy.jpg.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/drawable/vecteezy.jpg"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_teacher_update.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_teacher_update.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_teacher.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_teacher.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_student.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_student.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_sign_up.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_teacher_layout.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/teacher_layout.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-hdpi_applogo.jpg.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-hdpi/applogo.jpg"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_tilstdreg.xml.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/tilstdreg.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
