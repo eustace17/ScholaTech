@@ -8,12 +8,16 @@
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_teacher.xml"
     },
     {
-        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_teacher_update.xml",
-        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_teacher_update.xml"
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/callout_layout.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/callout_layout.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_tr_registration.xml",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_tr_registration.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_teacher_update.xml",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_teacher_update.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/teacher_layout.xml",
@@ -24,12 +28,20 @@
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_main.xml"
     },
     {
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_main.xml"
+    },
+    {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/tilstdreg.xml",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/tilstdreg.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_call_out_student.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_call_out_student.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_student.xml",
@@ -40,12 +52,12 @@
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_in.xml"
     },
     {
-        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_register.xml",
-        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_register.xml"
-    },
-    {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_student_update.xml",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_student_update.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_callout_list_view.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_callout_list_view.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_register.xml",

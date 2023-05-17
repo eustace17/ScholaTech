@@ -1,6 +1,7 @@
 package com.example.appdevelopmenttrialtwo
 
 import android.app.ProgressDialog
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -29,6 +30,11 @@ class CallOutStudentActivity : AppCompatActivity() {
         progressDialog = ProgressDialog(this)
         progressDialog.setTitle("Loading")
         progressDialog.setMessage("Please Wait")
+
+        binding.Viewcalledout.setOnClickListener {
+            val itwa = Intent(this@CallOutStudentActivity, CallOutListViewActivity::class.java)
+            startActivity(itwa)
+        }
 
         binding.btncallout.setOnClickListener {
             val name = binding.calloutname.editText?.text.toString().trim()

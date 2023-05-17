@@ -2575,6 +2575,7 @@ id TrPhone
 id TrView
 id TscNo
 id UPI
+id Viewcalledout
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2666,8 +2667,6 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-id btnBack
-id btnRegister
 id btncallout
 id button
 id buttonPanel
@@ -2752,20 +2751,6 @@ id east
 id edit_query
 id edit_text_name
 id edit_text_upi
-id edtAdmNo
-id edtDOA
-id edtDOB
-id edtFrCell
-id edtFrId
-id edtFrName
-id edtFrOccupation
-id edtGrade
-id edtMrCell
-id edtMrId
-id edtMrJob
-id edtMrName
-id edtStdName
-id edtUPI
 id elastic
 id emailEt
 id emailLayout
@@ -2856,6 +2841,7 @@ id mEdtMrName
 id mEdtStdName
 id mListStudents
 id mListTeachers
+id mListcalledoutStudents
 id mTxtParents
 id mTxtStudent
 id masked
@@ -3070,11 +3056,9 @@ id tilDOB
 id tilFrCell
 id tilFrId
 id tilFrName
-id tilFrOccupation
 id tilGrade
 id tilMrCell
 id tilMrId
-id tilMrJob
 id tilMrName
 id tilStdName
 id tilUPI
@@ -3205,6 +3189,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_call_out_student
+layout activity_callout_list_view
 layout activity_main
 layout activity_register
 layout activity_sign_in
@@ -3216,6 +3201,7 @@ layout activity_teacher_update
 layout activity_tr_registration
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
+layout callout_layout
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3305,7 +3291,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-layout tilstdreg
 mipmap applogo
 mipmap ic_launcher
 mipmap ic_launcher_round

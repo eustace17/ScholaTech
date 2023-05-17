@@ -24,6 +24,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final TextView LogOut;
 
   @NonNull
+  public final Button Viewcalledout;
+
+  @NonNull
   public final Button mBtnCallOut;
 
   @NonNull
@@ -39,10 +42,11 @@ public final class ActivityMainBinding implements ViewBinding {
   public final Button mBtnViewTr;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull TextView LogOut,
-      @NonNull Button mBtnCallOut, @NonNull Button mBtnRegStd, @NonNull Button mBtnRegTr,
-      @NonNull Button mBtnViewStd, @NonNull Button mBtnViewTr) {
+      @NonNull Button Viewcalledout, @NonNull Button mBtnCallOut, @NonNull Button mBtnRegStd,
+      @NonNull Button mBtnRegTr, @NonNull Button mBtnViewStd, @NonNull Button mBtnViewTr) {
     this.rootView = rootView;
     this.LogOut = LogOut;
+    this.Viewcalledout = Viewcalledout;
     this.mBtnCallOut = mBtnCallOut;
     this.mBtnRegStd = mBtnRegStd;
     this.mBtnRegTr = mBtnRegTr;
@@ -83,6 +87,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.Viewcalledout;
+      Button Viewcalledout = ViewBindings.findChildViewById(rootView, id);
+      if (Viewcalledout == null) {
+        break missingId;
+      }
+
       id = R.id.mBtnCallOut;
       Button mBtnCallOut = ViewBindings.findChildViewById(rootView, id);
       if (mBtnCallOut == null) {
@@ -113,8 +123,8 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, LogOut, mBtnCallOut, mBtnRegStd,
-          mBtnRegTr, mBtnViewStd, mBtnViewTr);
+      return new ActivityMainBinding((ConstraintLayout) rootView, LogOut, Viewcalledout,
+          mBtnCallOut, mBtnRegStd, mBtnRegTr, mBtnViewStd, mBtnViewTr);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

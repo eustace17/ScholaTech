@@ -22,6 +22,9 @@ public final class ActivityCallOutStudentBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final Button Viewcalledout;
+
+  @NonNull
   public final Button btncallout;
 
   @NonNull
@@ -36,10 +39,12 @@ public final class ActivityCallOutStudentBinding implements ViewBinding {
   @NonNull
   public final TextInputEditText editTextUpi;
 
-  private ActivityCallOutStudentBinding(@NonNull LinearLayout rootView, @NonNull Button btncallout,
+  private ActivityCallOutStudentBinding(@NonNull LinearLayout rootView,
+      @NonNull Button Viewcalledout, @NonNull Button btncallout,
       @NonNull TextInputLayout calloutname, @NonNull TextInputLayout calloutupi,
       @NonNull TextInputEditText editTextName, @NonNull TextInputEditText editTextUpi) {
     this.rootView = rootView;
+    this.Viewcalledout = Viewcalledout;
     this.btncallout = btncallout;
     this.calloutname = calloutname;
     this.calloutupi = calloutupi;
@@ -74,6 +79,12 @@ public final class ActivityCallOutStudentBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.Viewcalledout;
+      Button Viewcalledout = ViewBindings.findChildViewById(rootView, id);
+      if (Viewcalledout == null) {
+        break missingId;
+      }
+
       id = R.id.btncallout;
       Button btncallout = ViewBindings.findChildViewById(rootView, id);
       if (btncallout == null) {
@@ -104,8 +115,8 @@ public final class ActivityCallOutStudentBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityCallOutStudentBinding((LinearLayout) rootView, btncallout, calloutname,
-          calloutupi, editTextName, editTextUpi);
+      return new ActivityCallOutStudentBinding((LinearLayout) rootView, Viewcalledout, btncallout,
+          calloutname, calloutupi, editTextName, editTextUpi);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -32,8 +32,12 @@
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_register.xml.flat",
-        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_register.xml"
+        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_callout_layout.xml.flat",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/callout_layout.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_call_out_student.xml.flat",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_call_out_student.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -92,6 +96,10 @@
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-hdpi/ic_launcher_background.png"
     },
     {
+        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_callout_list_view.xml.flat",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_callout_list_view.xml"
+    },
+    {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
     },
@@ -130,6 +138,10 @@
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-pngs-29:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_main.xml"
     },
     {
         "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-merged_res-33:/mipmap-hdpi_applogo.jpg.flat",

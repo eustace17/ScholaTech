@@ -31,6 +31,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppDevelopmentTrialTwo" >
         <activity
+            android:name="com.example.appdevelopmenttrialtwo.CallOutListViewActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.appdevelopmenttrialtwo.TeacherUpdateActivity"
             android:exported="false" />
         <activity

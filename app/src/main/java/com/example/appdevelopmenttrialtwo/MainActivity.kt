@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var btnstdview:Button
     lateinit var btntrview:Button
     lateinit var logout:TextView
+    lateinit var viewcalledouts : Button
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -27,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         btnstdview = findViewById(R.id.mBtnViewStd)
         btntrview = findViewById(R.id.mBtnViewTr)
         logout = findViewById(R.id.LogOut)
+        viewcalledouts = findViewById(R.id.Viewcalledout)
 
 
         btnregstd.setOnClickListener {
@@ -55,6 +57,10 @@ class MainActivity : AppCompatActivity() {
             // Redirect the user to the login or home screen
             val logout = Intent(this@MainActivity, SignInActivity::class.java)
             startActivity(logout)
+        }
+        viewcalledouts.setOnClickListener {
+            val itwa = Intent(this@MainActivity, CallOutListViewActivity::class.java)
+            startActivity(itwa)
         }
 
 

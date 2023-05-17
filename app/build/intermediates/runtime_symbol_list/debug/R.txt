@@ -2574,6 +2574,7 @@ int id TrPhone 0x7f080010
 int id TrView 0x7f080011
 int id TscNo 0x7f080012
 int id UPI 0x7f080013
+int id Viewcalledout 0x7f080235
 int id accelerate 0x7f080014
 int id accessibility_action_clickable_span 0x7f080015
 int id accessibility_custom_action_0 0x7f080016
@@ -2665,8 +2666,6 @@ int id browser_actions_menu_item_icon 0x7f08006b
 int id browser_actions_menu_item_text 0x7f08006c
 int id browser_actions_menu_items 0x7f08006d
 int id browser_actions_menu_view 0x7f08006e
-int id btnBack 0x7f08006f
-int id btnRegister 0x7f080070
 int id btncallout 0x7f080071
 int id button 0x7f080072
 int id buttonPanel 0x7f080073
@@ -2751,20 +2750,6 @@ int id east 0x7f0800c1
 int id edit_query 0x7f0800c2
 int id edit_text_name 0x7f0800c3
 int id edit_text_upi 0x7f0800c4
-int id edtAdmNo 0x7f0800c5
-int id edtDOA 0x7f0800c6
-int id edtDOB 0x7f0800c7
-int id edtFrCell 0x7f0800c8
-int id edtFrId 0x7f0800c9
-int id edtFrName 0x7f0800ca
-int id edtFrOccupation 0x7f0800cb
-int id edtGrade 0x7f0800cc
-int id edtMrCell 0x7f0800cd
-int id edtMrId 0x7f0800ce
-int id edtMrJob 0x7f0800cf
-int id edtMrName 0x7f0800d0
-int id edtStdName 0x7f0800d1
-int id edtUPI 0x7f0800d2
 int id elastic 0x7f0800d3
 int id emailEt 0x7f0800d4
 int id emailLayout 0x7f0800d5
@@ -2855,6 +2840,7 @@ int id mEdtMrName 0x7f080128
 int id mEdtStdName 0x7f080129
 int id mListStudents 0x7f08012a
 int id mListTeachers 0x7f08012b
+int id mListcalledoutStudents 0x7f080236
 int id mTxtParents 0x7f08012c
 int id mTxtStudent 0x7f08012d
 int id masked 0x7f08012e
@@ -3069,11 +3055,9 @@ int id tilDOB 0x7f0801fe
 int id tilFrCell 0x7f0801ff
 int id tilFrId 0x7f080200
 int id tilFrName 0x7f080201
-int id tilFrOccupation 0x7f080202
 int id tilGrade 0x7f080203
 int id tilMrCell 0x7f080204
 int id tilMrId 0x7f080205
-int id tilMrJob 0x7f080206
 int id tilMrName 0x7f080207
 int id tilStdName 0x7f080208
 int id tilUPI 0x7f080209
@@ -3204,6 +3188,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_call_out_student 0x7f0b001c
+int layout activity_callout_list_view 0x7f0b0082
 int layout activity_main 0x7f0b001d
 int layout activity_register 0x7f0b001e
 int layout activity_sign_in 0x7f0b001f
@@ -3215,6 +3200,7 @@ int layout activity_teacher_update 0x7f0b0024
 int layout activity_tr_registration 0x7f0b0025
 int layout browser_actions_context_menu_page 0x7f0b0026
 int layout browser_actions_context_menu_row 0x7f0b0027
+int layout callout_layout 0x7f0b0083
 int layout custom_dialog 0x7f0b0028
 int layout design_bottom_navigation_item 0x7f0b0029
 int layout design_bottom_sheet_dialog 0x7f0b002a
@@ -3304,7 +3290,6 @@ int layout text_view_with_line_height_from_layout 0x7f0b007d
 int layout text_view_with_line_height_from_style 0x7f0b007e
 int layout text_view_with_theme_line_height 0x7f0b007f
 int layout text_view_without_line_height 0x7f0b0080
-int layout tilstdreg 0x7f0b0081
 int mipmap applogo 0x7f0c0002
 int mipmap ic_launcher 0x7f0c0000
 int mipmap ic_launcher_round 0x7f0c0001
